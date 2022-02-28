@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pvblique confider.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93422</idno>
+            <idno type="STC">Wing S43</idno>
+            <idno type="STC">Thomason E85_12</idno>
+            <idno type="STC">ESTC R4026</idno>
+            <idno type="EEBO-CITATION">99872577</idno>
+            <idno type="PROQUEST">99872577</idno>
+            <idno type="VID">125016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125016)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pvblique confider.</title>
+                  <author>I.S., Generosus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Leichfield,</publisher>
+                  <pubPlace>Printed at Oxford [i.e. London] :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.S.</note>
+                  <note>"A London counterfeit." cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Jan: 17 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125016:1" rendition="simple:additions"/>
+            <p>THE PVBLIQVE CONFIDER</p>
+            <p>Printed at OXFORD by <hi>Leonard L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chfield,</hi> MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:125016:2"/>
+            <head>THE CONFIDER</head>
+            <p>THe diſtempers, diſtractions iealouſies, lawfull and unlawfull wars of theſe preſent times, un<g ref="char:EOLhyphen"/>happily falne, ſtirred up, and fomented by ſome, under ſpecious, but uniuſt pretences, are the onely motives to write on this preſent Subiect. The word is <hi>Confido,</hi> and it ſignifies to truſt, or to put his truſt in.</p>
+            <p>From theſe premiſes the inference that I deduc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is this; let every ſoul be ſubiect to the higher pow<g ref="char:EOLhyphen"/>er, for all power is of God: They are not my words, but the aſſertion of the great Doctor of the Gen<g ref="char:EOLhyphen"/>tiles, Saint <hi>Paul</hi> in his 13. Chap. <hi>Rom.</hi> 1. wherein there are two things conſiderable, a precept in the firſt words, and the reaſon enforcing it in the latter; for all power is of God. There's a threefold power, Monarchicall, Ariſtocraticall, and Democraticall All theſe are of God, and there's none that is, but is derived from him. The firſt is the power of the Prince, the ſecond of the Peeres, and the third of the people, or the houſe of Commons a All theſe muſt be obeyed, becauſe all power is of God; yet under correction, give me leave to hold this poſiti<g ref="char:EOLhyphen"/>on,
+<pb n="3" facs="tcp:125016:2"/>that the firſt of theſe being Supreameſt, ought <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the prime place to be obeyed.</p>
+            <p>
+               <hi>Diviſum Imperium cum Iove Ceſar habet;</hi> our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſar is Superiour to all, and Inferiour to none <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne to God himſelfe, the Lord of Lords, and King of Kings. There is a kinde of Divinity in the word Monarchy, <hi>Vno minor eſt Iove,</hi> the King is a Sove<g ref="char:EOLhyphen"/>raigne Monarch, and being but one, he is next to God: <hi>per me Reges regnant,</hi> 'tis Gods priviledge, and let not us deny his Vice-gerent his prerogative. The Kings power is conferred upon him by the ſu<g ref="char:EOLhyphen"/>preame power, the power of all powers; and there<g ref="char:EOLhyphen"/>fore muſt every ſoule be ſubiect to it (and then we confide,) I ſay every ſoule, 'tis of a vaſt extent and capacity, none is exempted, it being a tearme of univerſality.</p>
+            <p>The Church of <hi>Rome</hi> doth except the Clergy, <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ing that every ſoule of the Laity ought to be ſubiect, and here we may not confide; but the Church of <hi>England</hi> is of a better opinion, holding according to the tenent of Saint <hi>Paul,</hi> that every ſoule ought to be ſubiect, for he is no good ſubiect who is not ſubiect to the King; and here you ought <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d will I hope confide.</p>
+            <p>The duty that every ſubiect owes to his Sove<g ref="char:EOLhyphen"/>reigne is threefold; honour, ſubiection, and obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>Firſt, honour him in your thoughts; ye muſt not coniecture ill of his Maieſty; he that think ill of the King, ſaid the wiſeſt, King <hi>Salomon,</hi> of mortall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, of immortall memory (ſhall not goe unpu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed.)</p>
+            <pb n="4" facs="tcp:125016:3"/>
+            <p>Secondly, honour him with your tongue in giving him his iuſt and due title and ſtile, defender of the true ancient Catholique and Apoſtolick<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in all cauſes, and over all perſons, as well Eceleſiaſt call as civill, next under Gods Sacred Maieſty; ſu<g ref="char:EOLhyphen"/>preame head and governour, ye muſt ſpeak well of him, and for him; for who ſhall ſay unto the King, what doſt thou, as you haue it in the 8. of the <hi>Ecele<g ref="char:EOLhyphen"/>ſiaſt,</hi> and 4. <hi>ver.</hi>
+            </p>
+            <p>Thirdly, honour him with your hand, I mean with the homage of tribute, with your meanes and ſub<g ref="char:EOLhyphen"/>ſtance, if he be King (though he come to the Crown by inheritance, by election, by donation, or by the law of the ſword) we muſt be ſubiect, and obey him; whatſoever he commands, if it be not contrary to the ſacred Word of God, we muſt yeeld obedience to, for the wrath of a King is as meſſengers of death, <hi>Prov.</hi> the 16. and 14. and in the 22. &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. he that pro<g ref="char:EOLhyphen"/>voketh him unto anger ſinneth againſt his own ſoul.</p>
+            <p>O remember eternity, eternity, I ſay eternity, and then you will yeeld a double obedience, active, and paſſive, in doing and in ſuffering, though he ſhould command what is again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the law of the Land: we muſt by no meanes rebell, for rebellion is as the ſin of witchcraft, what we cannot performe with obe<g ref="char:EOLhyphen"/>dience, we muſt be content to ſuffer with patience; but thanks be to God, we have no ſuch King, that requires of us any obedience againſt the will of God, his will and promiſe is to rule us according to the knowne and Fundamentall Lawes of the Land, hee is our deereſt parent, and we are bound by the Law
+<pb n="5" facs="tcp:125016:3"/>of God to honour and obey him, though hee be not <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> luminum,</hi> the Father of lights, nor <hi>Pater Spi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> the Father of Spirits (for theſe two are Gods <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tles) yet hee is <hi>Paterpatria,</hi> the Father of his <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>rey, and the nurſing Father and foſterer of this Church and State. But good God into what <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>entable times are we now fulaie; out of <hi>Silla</hi> into <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>bdes,</hi> from a high borne ſtorme, not confide<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of a calme, to an unmoved rocke, or an uncon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt ſand; though we ought to obey him, depend <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, believe him, honour him, and be ſubiect to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, yet (ſuch is our wretched diffidence and incre<g ref="char:EOLhyphen"/>dulity) wee will by no meanes confide in him; wee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo full of feares and iealouſies upon meere fan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and apprehenſions, generall and uncertaine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounds, that we cannot confide in him; rather then we will take his word, we levy forces pretended for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and are ſo ſtrong in our weakneſſes, that we are <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y enemies to our owne peace (is this to confide, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the word take its birth where it will, here it is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ative) this in the period will make us <hi>ludibrium <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ium,</hi> the laughing ſtocke of the Nations, a prey <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>our adverſaties, a ruine to our ſelves, and an ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>quie to thoſe about us.</p>
+            <p>His Maieſty hath vowed and proteſted to God <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the world, that he intend, to maintaine the true <gap reason="illegible" resp="#PDCC" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ant Religion, the ancient Laws of the Land, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> liberty and property of the Subiect, with the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> priviledges of the Parliament, and ſhall we not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nfide in him? ſo gracious wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of this Parliament, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to
+<pb n="6" facs="tcp:125016:4"/>put himſelfe freely and cleerly upon the love and af<g ref="char:EOLhyphen"/>fection of his Engliſh ſubiects, you not withſtand<g ref="char:EOLhyphen"/>ing invite him by your levies to doe otherwiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I truſt in God there (will be no need) you have been told ſo, and if your conſciences be not ſecured there is tel-troth too hee at firſt confided in us, and ſhall not we confide in him; the words of a king are like himſelfe ſincere, and ſhall we not take his word? he hath ſaid (and I dare ſay) from his heart, ſo God deal with him and his, as he intends to doe with his peo<g ref="char:EOLhyphen"/>ple: will not all theſe expreſſions move u's to con<g ref="char:EOLhyphen"/>fide in him? If an ordinary mechanick ſhould pro<g ref="char:EOLhyphen"/>feſſe ſo much unto us we might not ſtick to take his word, much leſſe may we make it a ſcruple to take the word of a King. Certainely that his abſenting himſelfe ſo long from his great Councell (the Par<g ref="char:EOLhyphen"/>liament) hath produced ſuch a civill, or rather un<g ref="char:EOLhyphen"/>civill war at this time in the Kingdome, hath beene more ſutable to other mens evill deſires then to the Kings owne words. 'Tis a maxime in the Law, that the King can doe no wrong; but if any ill be com<g ref="char:EOLhyphen"/>mitted in matter of the State, the Councell, if in matter of iuſtice, the Iudges muſt anſwer for it, ſo much of knowledge I have of that unknowing and unknowne vindicator of the Parliament) his Maie<g ref="char:EOLhyphen"/>ſty hath declared himſelfe; that be will make the law of the land the rule of his power; he abhors that ſaying, <hi>voluntas Regi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, lex populi,</hi> the will of the Prince the law of his people; and for all this will we not confide in him, we will confide in our ſervant that muſt obey us, and yet we will not confide in our
+<pb n="7" facs="tcp:125016:4"/>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eraigne that can command us: but it may bee <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e will ſay how can he command us, when as wee <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e his ſervice. I anſwer that <hi>iwobedientia ſub di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tollit jus dominationis;</hi> The diſobedience <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>ſubiects takes, not away the right of the Sove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>e; and therefore if there were no other reaſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the relation of King and ſubiect, it were ſuffici<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o perſwade us, but there are many more; for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King is pious, gracious, prudent, iuſt, valiant, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>erate, element, mercifull, he never delighted <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, nor was he ever ready to ſhed blood, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ies willing to ſhew his innate mercy and ſaye it, he deſires peace and to that end hath ſent many gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ieus meſſnages to his two honourable houſes of Parliament, that he might prevent the effuſion of in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cent blood, had he loved the contrary, where <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Parliament's being, or all the gracious a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he paſſed there, &amp; yet we are not content, what v<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d we, his Crowne, our ruine let us be modeſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take heed, for that will curſh us to the centre of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arth, which ſome hold to be the place of <hi>Luci<g ref="char:EOLhyphen"/>fer</hi> for his pride) as being farthest from heaven.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was his fathers motto, <hi>beati pacifici,</hi> bleſſed are th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peace makers; and in my heart I am perſwaded th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Soveraigne his Son doth not in this legene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from his Royall Progenetor.</p>
+            <p>For our parts, let it be our care and duty to pray <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God that we may ſeeke pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and inſue it, <hi>Pſal.</hi> 34.13. and that our Royall King and his Par<g ref="char:EOLhyphen"/>liament may confide in each other, that there may <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>o more bloodſhed in this his Kingdome, but
+<pb n="8" facs="tcp:125016:5"/>that a happy and bleſſed union may bee drawne be<g ref="char:EOLhyphen"/>tweene them: and let us be confident (for o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> couragement) that if wee pray in faith, G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> grant our requeſts. Let us therefore (in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and feare of God) pray for peace to the God of peace; (not with much babbling as though our <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ers coſt us nought, not yet with powdering <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guns, and then gorging our ſelves like Cannibals) that he would be pleaſed to ſettle peace in this <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ding and diſtreſſed Kingdome, that ſo we may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the unity of the Spirit in the bond of peace, that the two great armies now in the field may be ſpeedily disbanded, and that upon this wiſhed for pacifica<g ref="char:EOLhyphen"/>tion, his Maieſty may return againe to his high and honourable Court of Parliament, with the Olive branch of peace in his mouth, to the glory of God, the comfort of his people, and terror of all his enemies.</p>
+            <closer>
+               <signed>Me thinkes I heare you enquire for the Author and his name, I'le tell you, 'tis one that prefers <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good of his King and Countrey before his owne ſafety, his abode the Kings Army, his name I. S.</signed>
+            </closer>
+            <trailer>Genereſos.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
